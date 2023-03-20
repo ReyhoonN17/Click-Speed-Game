@@ -1,0 +1,17 @@
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\bin\Debug\net6.0-windows\Tam11106.exe
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\bin\Debug\net6.0-windows\Tam11106.deps.json
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\bin\Debug\net6.0-windows\Tam11106.runtimeconfig.json
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\bin\Debug\net6.0-windows\Tam11106.dll
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\bin\Debug\net6.0-windows\Tam11106.pdb
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\Tam11106.csproj.AssemblyReference.cache
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\Tam11106.Form1.resources
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\Tam11106.csproj.GenerateResource.cache
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\Tam11106.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\Tam11106.AssemblyInfoInputs.cache
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\Tam11106.AssemblyInfo.cs
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\Tam11106.csproj.CoreCompileInputs.cache
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\Tam11106.dll
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\refint\Tam11106.dll
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\Tam11106.pdb
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\Tam11106.genruntimeconfig.cache
+C:\Users\reyho\Desktop\C#\Tam11106\Tam11106\obj\Debug\net6.0-windows\ref\Tam11106.dll
